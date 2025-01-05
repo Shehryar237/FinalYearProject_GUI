@@ -1,0 +1,32 @@
+{
+    "AK": {
+        "full_name": "Actinic Keratosis",
+        "description": "Actinic Keratosis is a rough, scaly patch or bump on your skin that develops due to prolonged exposure to the sun. It is commonly found on areas such as the face, lips, ears, neck, scalp, or the back of your hands. If left untreated, it has the potential to progress to squamous cell carcinoma, a type of skin cancer.",
+        "contagious": "no",
+        "severity": "moderate"
+    },
+    "MEL": {
+        "full_name": "Melanoma",
+        "description": "Melanoma is the most serious form of skin cancer, originating in the pigment-producing melanocytes of the skin. It is characterized by the appearance of new or changing moles that are asymmetric, have irregular borders, or display multiple colors. Early detection and treatment are crucial to prevent the spread to other parts of the body, as advanced melanoma can be life-threatening.",
+        "contagious": "no",
+        "severity": "severe"
+    },
+    "BCC": {
+        "full_name": "Basal Cell Carcinoma",
+        "description": "Basal Cell Carcinoma is the most common type of skin cancer that arises from the basal cells in the epidermis. It often appears as a translucent, pearly bump, though it can also present as a flat, scaly patch. While BCC rarely spreads to other parts of the body, it can cause significant local damage if not treated promptly.",
+        "contagious": "no",
+        "severity": "moderate"
+    },
+    "DF": {
+        "full_name": "Dermatofibroma",
+        "description": "Dermatofibroma is a benign skin growth that often appears as a small, firm nodule on the legs, arms, or other parts of the body. It is typically harmless and may feel tender or itchy. While the exact cause is unknown, it may develop as a reaction to minor injuries, insect bites, or trauma to the skin.",
+        "contagious": "no",
+        "severity": "low"
+    },
+    "NV": {
+        "full_name": "Nevus",
+        "description": "Nevus, commonly referred to as a mole, is a benign growth of melanocytes, the cells responsible for skin pigmentation. Moles can vary in size, color, and shape and may be present at birth or develop over time. Most nevi are harmless, but certain types, such as dysplastic nevi, can have a higher risk of developing into melanoma and should be monitored closely.",
+        "contagious": "no",
+        "severity": "low"
+    }
+}
