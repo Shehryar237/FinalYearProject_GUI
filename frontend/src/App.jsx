@@ -13,7 +13,7 @@ function App() {
 
   return (
     <Wrapper>
-      <NavBar>CSCS-460</NavBar>
+      <NavBar>COMP-497</NavBar>
       <S_AppWrapper>
         <PredictorApp setPrediction={setPrediction} />
         <InfoBlock prediction={prediction}/>
