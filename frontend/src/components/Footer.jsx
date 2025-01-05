@@ -10,8 +10,8 @@ const Footer = () => {
             <div className="groupMembers">
                 <p>Group members:<br></br> 
                 Muhmmad Shehryar Nasir  241605237<br></br>
-                Bilal Manzoor  251706435<br></br>
-                Shazaib Khan<br></br>
+                Bilal Manzoor 241605107 <br></br>
+                Shazaib Khan<br> 241550543</br>
                 Project Advisor: Maria Tamoor<br></br>
                 
                 </p> 
