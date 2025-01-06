@@ -5,11 +5,11 @@
         "contagious": "no",
         "severity": "moderate"
     },
-    "MEL": {
-        "full_name": "Melanoma",
-        "description": "Melanoma is the most serious form of skin cancer, originating in the pigment-producing melanocytes of the skin. It is characterized by the appearance of new or changing moles that are asymmetric, have irregular borders, or display multiple colors. Early detection and treatment are crucial to prevent the spread to other parts of the body, as advanced melanoma can be life-threatening.",
+    "Acne": {
+        "full_name": "Acne",
+        "description": "Acne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells. It manifests as pimples, blackheads, whiteheads, or cysts, primarily on the face, chest, and back. Hormonal changes, stress, and diet can contribute to its severity.",
         "contagious": "no",
-        "severity": "severe"
+        "severity": "low to moderate"
     },
     "BCC": {
         "full_name": "Basal Cell Carcinoma",
@@ -23,10 +23,34 @@
         "contagious": "no",
         "severity": "low"
     },
+    "MEL": {
+        "full_name": "Melanoma",
+        "description": "Melanoma is the most serious form of skin cancer, originating in the pigment-producing melanocytes of the skin. It is characterized by the appearance of new or changing moles that are asymmetric, have irregular borders, or display multiple colors. Early detection and treatment are crucial to prevent the spread to other parts of the body, as advanced melanoma can be life-threatening.",
+        "contagious": "no",
+        "severity": "severe"
+    },
     "NV": {
-        "full_name": "Nevus",
-        "description": "Nevus, commonly referred to as a mole, is a benign growth of melanocytes, the cells responsible for skin pigmentation. Moles can vary in size, color, and shape and may be present at birth or develop over time. Most nevi are harmless, but certain types, such as dysplastic nevi, can have a higher risk of developing into melanoma and should be monitored closely.",
+        "full_name": "Melanocytic Nevi",
+        "description": "Melanocytic Nevi, commonly known as moles, are benign growths on the skin caused by clusters of melanocytes. They are usually brown or black and can appear anywhere on the body. While typically harmless, some moles may evolve into melanoma if they change in size, shape, or color.",
         "contagious": "no",
         "severity": "low"
+    },
+    "SCC": {
+        "full_name": "Squamous Cell Carcinoma",
+        "description": "Squamous Cell Carcinoma is the second most common form of skin cancer, arising from the squamous cells in the epidermis. It typically appears as a firm red nodule or a flat lesion with a scaly, crusted surface. SCC can occur anywhere on the body but is most commonly found on sun-exposed areas like the face, ears, neck, and hands. While it can metastasize, especially if left untreated, early detection and treatment usually result in a favorable prognosis.",
+        "contagious": "no",
+        "severity": "moderate"
+    },
+    "SEK": {
+        "full_name": "Seborrheic Keratoses",
+        "description": "Seborrheic Keratoses are noncancerous skin growths that appear as waxy, scaly, or slightly raised lesions. They vary in color from light tan to dark brown and are commonly found on the face, chest, shoulders, or back. While generally harmless, they can be removed for cosmetic reasons or if irritated.",
+        "contagious": "no",
+        "severity": "low"
+    },
+    "VASC": {
+        "full_name": "Vascular Lesion",
+        "description": "Vascular Lesions are abnormalities of blood vessels in the skin, such as hemangiomas, port-wine stains, or spider veins. They may appear as red, purple, or blue patches or spots. While most are benign, some may require medical attention if they cause discomfort or indicate an underlying condition.",
+        "contagious": "no",
+        "severity": "low to moderate"
     }
 }
