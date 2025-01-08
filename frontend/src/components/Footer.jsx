@@ -11,7 +11,7 @@ const Footer = () => {
                 <p>Group members:<br></br> 
                 Muhmmad Shehryar Nasir  241605237<br></br>
                 Bilal Manzoor 241605107 <br></br>
-                Shazaib Khan<br> 241550543</br>
+                Shazaib Khan241550543  <br></br>
                 Project Advisor: Maria Tamoor<br></br>
                 
                 </p> 
